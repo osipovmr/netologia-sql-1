@@ -31,6 +31,6 @@ ALTER USER 'sys_temp'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 ....
 ```
 
-![Скриншот-1](https://github.com/osipovmr/netologia-sql-1/task_2/img/sys_temp_create.png)
-![Скриншот-1](https://github.com/osipovmr/netologia-sql-1/task_2/img/sys_temp_grants.png)
-![Скриншот-1](https://github.com/osipovmr/netologia-sql-1/task_2/img/tables.png)
+![Скриншот-1](https://github.com/osipovmr/netologia-sql-1/tree/task_2/img/sys_temp_create.png)
+![Скриншот-1](https://github.com/osipovmr/netologia-sql-1/tree/task_2/img/sys_temp_grants.png)
+![Скриншот-1](https://github.com/osipovmr/netologia-sql-1/tree/task_2/img/tables.png)
